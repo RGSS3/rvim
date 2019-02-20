@@ -14,7 +14,7 @@ func! MyExpand(filename)
 endf
 
 let mapleader="\\"
-inoremap <Leader>[[ <%= %><C-[><LEFT><LEFT>i
-set gfn=Source_Code_Pro:h14:qCLEARTYPE
+inoremap <Leader>[[ <%= %><LEFT><LEFT>
+set gfn^=Source_Code_Pro:h14:qCLEARTYPE
 set ar ts=4 si ai rnu ru
 colors darkblue
