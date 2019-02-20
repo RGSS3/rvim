@@ -15,6 +15,6 @@ endf
 
 let mapleader="\\"
 inoremap <Leader>[[ <%= %><LEFT><LEFT>
-set gfn^=Source_Code_Pro:h14:qCLEARTYPE,Ubuntu\ Mono:h14:qCLEARTYPE
+set gfn^=Ubuntu\ Mono\ 14,Source_Code_Pro:h14:qCLEARTYPE
 set ar ts=4 si ai rnu ru
 colors darkblue
